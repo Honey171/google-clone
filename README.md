@@ -1,12 +1,12 @@
 What can you find and see in this clone?
 
-- Google's homepage(with react keyword), google's searchpage(with searched react keyword)
+- Google's homepage (with react keyword), google's searchpage (with searched react keyword)
 
 Is this clone responsive?
 
-- Yes everything is responsive
+- Yes, everything is responsive
 
-What did i use for create this clone?
+What did i use to create this clone?
 
 - React.js, tailwindcss, react-router-dom, react-icons
 
